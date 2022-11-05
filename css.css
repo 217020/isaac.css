@@ -1,0 +1,27 @@
+
+img{
+    background-color: aqua;
+
+}
+body{
+    background-image:url(https://img.freepik.com/vector-gratis/banner-moderno-diseno-abstracto-baja-poli_1048-14340.jpg?size=626&ext=jpg) ;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
+
+header{
+    background-color: gold;
+    display: flex;
+}
+img{
+background-color: aqua;
+}
+body{
+background-image:url(https://img.freepik.com/vector-premium/plantilla-portada-fondo-geometrico-fondo-pancarta-vector_238404-1805.jpg?size=626&ext=jpg) ;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
